@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:25:09 +0800] "GET /search.html?keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 84662 http-bio-8085-exec-1 2447
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:25:11 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-3 5
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:49:16 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8085-exec-5 4
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:18:41:58 +0800] "GET /search.html?keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 84662 http-bio-8085-exec-7 370

@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:25:26 +0800] "GET /cart/add/1231490.html?num=10 HTTP/1.1" 500 15140 http-bio-8090-exec-1 2196
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:25:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8090-exec-2 3
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:59:12 +0800] "GET /cart/add/1231490.html?num=10 HTTP/1.1" 200 18544 http-bio-8090-exec-4 2144
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:16:59:16 +0800] "GET /cart/cart.html HTTP/1.1" 200 17992 http-bio-8090-exec-6 833
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:18:41:28 +0800] "GET /images/indexImg20130307.png HTTP/1.1" 200 55428 http-bio-8090-exec-10 73
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:18:42:07 +0800] "GET /cart/add/1231490.html?num=1 HTTP/1.1" 500 14982 http-bio-8090-exec-10 2204
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:18:43:37 +0800] "GET /cart/add/1231490.html?num=1 HTTP/1.1" 200 18544 http-bio-8090-exec-3 664
+0:0:0:0:0:0:0:1 - - [26/Jul/2020:18:43:42 +0800] "GET /cart/cart.html HTTP/1.1" 200 17992 http-bio-8090-exec-3 394
